@@ -1,2 +1,4 @@
-# Anti-Valentine code
-    Run at your own risk
+# Anti-Valentine.
+    Developed during valentine's day 2025
+    Run at your own risk. 
+   
