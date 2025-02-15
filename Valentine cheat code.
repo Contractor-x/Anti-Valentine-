@@ -1,7 +1,7 @@
 answer = input("Do you like Valentine? (yes/no): ").strip().lower()
 
 if answer == "yes":
-    print("That's sweet! I hate it❤️")
+    print("That's sweet! I hate it and I hope you won't get married to the same person ❤️")
 elif answer == "no":
     print("No worries! You would be single forever😊")
 else:
