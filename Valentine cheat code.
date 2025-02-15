@@ -5,4 +5,4 @@ if answer == "yes":
 elif answer == "no":
     print("No worries! You would be single forever okay?😊")
 else:
-    print("Interesting answer! We will all die someday though 💖")
+    print("Interesting, you will all die someday though 💖")
